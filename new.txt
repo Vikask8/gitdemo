@@ -1,0 +1,2 @@
+git -- version
+	// shows current version of git on your machine
